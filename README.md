@@ -1,5 +1,5 @@
 
-# [MarlioRamos] <img src="https://mf.b37mrtl.ru/rbthmedia/images/2023.01/original/63c664178a60666151356ae1.jpg" width="30px">
+# [MarlioRamos] <img src="https://mf.b37mrtl.ru/rbthmedia/images/2023.01/original/63c664178a60666151356ae1.jpg" width="200px">
 
 Eu sou <strong>MarlioRamos</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
