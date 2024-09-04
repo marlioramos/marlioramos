@@ -1,7 +1,7 @@
 
 # [MarlioRamos] <img src="https://mf.b37mrtl.ru/rbthmedia/images/2023.01/original/63c664178a60666151356ae1.jpg" width="200px">
 
-Eu sou <strong>MarlioRamos</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>MarlioRamos</strong>, <strong>Faça uma breve apresentação aqui</strong> <img src ="
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
@@ -18,4 +18,4 @@ Eu sou <strong>MarlioRamos</strong>, <strong>Faça uma breve apresentação aqui
   <a href="#" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
-</div>
+</contador>
